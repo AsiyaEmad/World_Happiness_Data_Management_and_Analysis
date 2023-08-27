@@ -1,5 +1,7 @@
-# World_Happiness_Report_dataset
-This is a University Project about quality of the data, analysis, and visualizations
+# World Happiness Report 2015 :
+This is a Data Management and Analysis Project about the quality of the data, analysis, and visualizations
+
+
 ## Description :
 The World Happiness Report is a seminal analysis of happiness levels around the world. As more governments, companies, and members of civil society utilize happiness indices to guide their policy decisions, the report continues to acquire awareness on a global scale. Prominent experts from a variety of disciplines, including economics, psychology, survey analysis, national statistics, health, and public policy, explain how well-being indicators can be used to evaluate a country's progress. The studies examine the current state of happiness in the globe and demonstrate how the personal and regional variations in happiness are explained by the new science of happiness.
 You can download the dataset from https://www.kaggle.com/datasets/synful/world-happiness-report. There are multiple csv files in this link. Use 2015.csv to work on this project.
